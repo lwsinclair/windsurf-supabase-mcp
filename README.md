@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/hertzfelt-windsurf-supabase-mcp-badge.png)](https://mseep.ai/app/hertzfelt-windsurf-supabase-mcp)
+
 # Windsurf Supabase MCP Server
 
 > A Windsurf-optimized MCP server for Supabase integration
